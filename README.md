@@ -2,6 +2,15 @@
 
 Follow these guidelines when promoting [Juno] in marketing communications, including advertising, articles, websites, and printed promotions.
 
+
+## Table of contents
+
+- [Logo](#logo)
+- [Colors](#colors)
+- [Slogans](#slogans)
+- [Press inquiries](#press-inquiries)
+- [Goodies](#goodies)
+
 ## Logo
 
 The [Juno] logo can be displayed with either a textual representation or a simplified icon, each available in two color variants.
@@ -30,12 +39,22 @@ As primary color, [Juno] uses lavender-blue. Various alternative secondary color
 | pink-lace     | `#ff97e7`   |                         |
 | baby-pink     | `#ff8989`   |                         |
 
+## Slogans
+
+If you have built a project using [Juno], you can display these slogans on your pages as a way of showing your appreciation. Thank you for your support 🙏.
+
+- Build with Juno
+- Built on Juno
+- Powered by Juno
+
 ## Press inquiries
 
 Please direct inquiries to [david@fluster.io](mailto:david@fluster.io)
 
 ## Goodies
 
-<img src="assets/juno_illustration.svg" width="300px" alt="Juno illustration" />
+The astronaut featured in [Juno]'s documentation and console."
+
+<img src="assets/juno_illustration.svg" width="400px" alt="Juno illustration" />
 
 [juno]: https://juno.build
