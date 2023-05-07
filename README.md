@@ -18,4 +18,16 @@ The [Juno] logo can be displayed with either a textual representation or a simpl
 
 <img src="assets/juno_icon_white.svg" width="100px" />
 
+## Colors
+
+As primary color, [Juno] uses lavender-blue. Various alternative secondary colors can also be used.
+
+| Color         | Value       |                         |
+|---------------|-------------|-------------------------|
+| lavender-blue | `#7888ff`   | Primary color           |
+| papaya-whip   | `#ffcf98`   |                         |
+| aero-blue     | `#97ffd2`   |                         |
+| pink-lace     | `#ff97e7`   |                         |
+| baby-pink     | `#ff8989`   |                         |
+
 [juno]: https://juno.build
