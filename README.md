@@ -47,6 +47,12 @@ If you have built a project using [Juno], you can display these slogans on your 
 - Built on Juno
 - Powered by Juno
 
+These slogans re designed to work best when used in conjunction with th [icon](#icon).
+
+<div style="display: flex">
+Build with Juno <img src="assets/juno_icon.svg" width="1rem" alt="Juno logo" role="presentation" />
+</div>
+
 ## Press inquiries
 
 Please direct inquiries to [david@fluster.io](mailto:david@fluster.io)
