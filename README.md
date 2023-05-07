@@ -47,11 +47,17 @@ If you have built a project using [Juno], you can display these slogans on your 
 - Built on Juno
 - Powered by Juno
 
-These slogans re designed to work best when used in conjunction with th [icon](#icon).
+### Badges
 
-<div style="display: flex">
-Build with Juno <img src="assets/juno_icon.svg" width="1rem" alt="Juno logo" />
-</div>
+Above slogans are designed to work best when used in conjunction with the [icon](#icon).
+
+If you would like to use a pre-made badge, you can select one from the following options.
+
+<img src="assets/juno_badge_01.svg" width="300px" alt="Build with Juno" />
+
+<img src="assets/juno_badge_02.svg" width="300px" alt="Build with Juno" />
+
+<img src="assets/juno_badge_03.svg" width="300px" alt="Build with Juno" />
 
 ## Press inquiries
 
