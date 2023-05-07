@@ -8,6 +8,7 @@ Follow these guidelines when promoting [Juno] in marketing communications, inclu
 - [Logo](#logo)
 - [Colors](#colors)
 - [Slogans](#slogans)
+- [Fonts](#fonts)
 - [Press inquiries](#press-inquiries)
 - [Goodies](#goodies)
 
@@ -58,6 +59,10 @@ If you would like to use a pre-made badge, you can select one from the following
 <img src="assets/juno_badge_02.svg" width="300px" alt="Build with Juno" />
 
 <img src="assets/juno_badge_03.svg" width="300px" alt="Build with Juno" />
+
+## Fonts
+
+[Juno] uses the free and open source typeface font [Jetbrains Mono](https://www.jetbrains.com/lp/mono/).
 
 ## Press inquiries
 
