@@ -2,7 +2,6 @@
 
 Follow these guidelines when promoting [Juno] in marketing communications, including advertising, articles, websites, and printed promotions.
 
-
 ## Table of contents
 
 - [Logo](#logo)
