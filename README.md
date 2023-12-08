@@ -13,7 +13,7 @@ Follow these guidelines when promoting [Juno] in marketing communications, inclu
 
 ## Logo
 
-The [Juno] logo can be displayed with either a textual representation or a simplified icon, each available in two color variants.
+The [Juno] logo can be displayed with either a textual representation or a simplified icon, with each option available in two color variants.
 
 ### Textual
 
@@ -29,7 +29,7 @@ The [Juno] logo can be displayed with either a textual representation or a simpl
 
 ## Colors
 
-As primary color, [Juno] uses lavender-blue. Various alternative secondary colors can also be used.
+[Juno] uses lavender-blue as its primary color, and various alternative secondary colors can also be used.
 
 | Color         | Value       |                         |
 |---------------|-------------|-------------------------|
@@ -41,11 +41,14 @@ As primary color, [Juno] uses lavender-blue. Various alternative secondary color
 
 ## Slogans
 
-If you have built a project using [Juno], you can display these slogans on your pages as a way of showing your appreciation. Thank you for your support 🙏.
+If you've built a project using [Juno], you're welcome to display these slogans on your pages as a token of your appreciation. We appreciate your support! 🙏
+
+- Built on Juno
+- Crafted with Juno
+
+And if you're looking to promote building to encourage other developers adopt Juno, you can use this slogan:
 
 - Build with Juno
-- Built on Juno
-- Powered by Juno
 
 ### Badges
 
@@ -53,13 +56,29 @@ Above slogans are designed to work best when used in conjunction with the [icon]
 
 If you would like to use a pre-made badge, you can select one from the following options.
 
-<img src="assets/juno_badge_01.svg" width="300px" alt="Build with Juno" />
+#### Built on Juno
 
-<img src="assets/juno_badge_02.svg" width="300px" alt="Build with Juno" />
+<img src="assets/badges/juno_badge_built_on_01.svg" width="300px" alt="Built on Juno" />
 
-<img src="assets/juno_badge_03.svg" width="300px" alt="Build with Juno" />
+<img src="assets/badges/juno_badge_built_on_02.svg" width="300px" alt="Built on Juno" />
 
-<img src="assets/juno_badge_04.svg" width="300px" alt="Build with Juno" />
+<img src="assets/badges/juno_badge_built_on_03.svg" width="300px" alt="Built on Juno" />
+
+#### Crafted with Juno
+
+<img src="assets/badges/juno_badge_crafted_with_01.svg" width="300px" alt="Crafted with Juno" />
+
+<img src="assets/badges/juno_badge_crafted_with_02.svg" width="300px" alt="Crafted with Juno" />
+
+<img src="assets/badges/juno_badge_crafted_with_03.svg" width="300px" alt="Crafted with Juno" />
+
+#### Built with Juno
+
+<img src="assets/badges/juno_badge_build_with_01.svg" width="300px" alt="Build with Juno" />
+
+<img src="assets/badges/juno_badge_build_with_02.svg" width="300px" alt="Build with Juno" />
+
+<img src="assets/badges/juno_badge_build_with_03.svg" width="300px" alt="Build with Juno" />
 
 ## Fonts
 
@@ -71,7 +90,7 @@ Please direct inquiries to [david@fluster.io](mailto:david@fluster.io)
 
 ## Goodies
 
-The astronaut featured in [Juno]'s documentation and console."
+The astronaut featured in [Juno]'s documentation and console.
 
 <img src="assets/juno_illustration.svg" width="400px" alt="Juno illustration" />
 
