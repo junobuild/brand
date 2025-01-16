@@ -88,10 +88,4 @@ If you would like to use a pre-made badge, you can select one from the following
 
 Please direct inquiries to [david@fluster.io](mailto:david@fluster.io)
 
-## Goodies
-
-The astronaut featured in [Juno]'s documentation and console.
-
-<img src="assets/juno_illustration.svg" width="400px" alt="Juno illustration" />
-
 [juno]: https://juno.build
