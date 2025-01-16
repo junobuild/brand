@@ -13,7 +13,10 @@ Follow these guidelines when promoting [Juno] in marketing communications, inclu
 
 ## Logo
 
-The [Juno] logo can be displayed with either a textual representation or a simplified icon, with each option available in two color variants.
+The [Juno] logo can be displayed with either a textual representation or a simplified icon, with each option available in two color variants. Pick the one that fits your material the best.
+
+> [!IMPORTANT]
+> Please choose the one that best suits your material—the one that makes your designer say: "Yeah, that looks great!"
 
 ### Textual
 
@@ -31,24 +34,29 @@ The [Juno] logo can be displayed with either a textual representation or a simpl
 
 [Juno] uses lavender-blue as its primary color, and various alternative secondary colors can also be used.
 
-| Color         | Value       |                         |
-|---------------|-------------|-------------------------|
-| lavender-blue | `#7888ff`   | Primary color           |
-| papaya-whip   | `#ffcf98`   |                         |
-| aero-blue     | `#97ffd2`   |                         |
-| pink-lace     | `#ff97e7`   |                         |
-| baby-pink     | `#ff8989`   |                         |
+| Color          | Value       |                                       |
+|----------------|-------------|---------------------------------------|
+| lavender-blue  | `#7888ff`   | Common colors used for communication. |
+| papaya-whip    | `#ffcf98`   |                                       |
+| aero-blue      | `#97ffd2`   |                                       |
+| pink-lace      | `#ff97e7`   |                                       |
+| baby-pink      | `#ff8989`   |                                       |
+| shandy         | `#ffe36f`   |                                       |
+| hot-pink       | `#f374ae`   |                                       |
+| folly-lighter  | `#ff6687`   |                                       |
+| keppel         | `#2ebfa5`   |                                       |
+| tiffany-blue   | `#75dddd`   |                                       |
 
 ## Slogans
 
 If you've built a project using [Juno], you're welcome to display these slogans on your pages as a token of your appreciation. We appreciate your support! 🙏
 
-- Built on Juno
-- Crafted with Juno
+- **Built on Juno**
+- **Crafted with Juno**
 
 And if you're looking to promote building to encourage other developers adopt Juno, you can use this slogan:
 
-- Build with Juno
+- **Build with Juno**
 
 ### Badges
 
