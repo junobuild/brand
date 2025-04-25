@@ -80,7 +80,7 @@ If you would like to use a pre-made badge, you can select one from the following
 
 <img src="assets/badges/juno_badge_crafted_with_03.svg" width="300px" alt="Crafted with Juno" />
 
-#### Built with Juno
+#### Build with Juno
 
 <img src="assets/badges/juno_badge_build_with_01.svg" width="300px" alt="Build with Juno" />
 
