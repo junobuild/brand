@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 210 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g><path d="M200,7.421c0,-2.218 -1.632,-4.019 -3.642,-4.019l-182.716,0c-2.01,0 -3.642,1.801 -3.642,4.019l0,34.158c0,2.218 1.632,4.019 3.642,4.019l182.716,0c2.01,0 3.642,-1.801 3.642,-4.019l0,-34.158Z"/><g><text x="55.276px" y="31.096px" style="font-family:'JetBrainsMono-Regular', 'JetBrains Mono', monospace;font-size:17.2px;fill:#fff;">Built on Juno</text><g><path d="M43.396,24.5c-0,-6.207 -5.039,-11.246 -11.246,-11.246c-6.207,0 -11.247,5.039 -11.247,11.246c-0,6.207 5.04,11.246 11.247,11.246c6.207,0 11.246,-5.039 11.246,-11.246Z" style="fill:#fff;"/><circle cx="41.949" cy="20.208" r="6.954" style="fill:#7888ff;"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 190 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-10,-3.402)">
+        <path d="M200,7.421C200,5.203 198.368,3.402 196.358,3.402L13.642,3.402C11.632,3.402 10,5.203 10,7.421L10,41.579C10,43.797 11.632,45.598 13.642,45.598L196.358,45.598C198.368,45.598 200,43.797 200,41.579L200,7.421Z"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-10,-3.402)">
+        <g transform="matrix(1,0,0,1,55.276,31.096)">
+            <text x="0px" y="0px" style="font-family:'JetBrainsMono-Regular', 'JetBrains Mono', monospace;font-size:17.2px;fill:white;">Built on Juno</text>
+        </g>
+        <g>
+            <path d="M43.396,24.5C43.396,18.293 38.357,13.254 32.15,13.254C25.943,13.254 20.903,18.293 20.903,24.5C20.903,30.707 25.943,35.746 32.15,35.746C38.357,35.746 43.396,30.707 43.396,24.5Z" style="fill:white;"/>
+            <circle cx="41.949" cy="20.208" r="6.954" style="fill:rgb(120,136,255);"/>
+        </g>
+    </g>
+</svg>

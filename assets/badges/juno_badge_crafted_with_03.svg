@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 248 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g><path d="M239,7.421c0,-2.218 -1.975,-4.019 -4.409,-4.019l-221.182,0c-2.434,0 -4.409,1.801 -4.409,4.019l0,34.158c0,2.218 1.975,4.019 4.409,4.019l221.182,0c2.434,0 4.409,-1.801 4.409,-4.019l0,-34.158Z" style="fill:#fff;"/><g><text x="54.276px" y="31.096px" style="font-family:'JetBrainsMono-Regular', 'JetBrains Mono', monospace;font-size:17.2px;">Crafted with Juno</text><g><path d="M42.396,24.5c-0,-6.207 -5.039,-11.246 -11.246,-11.246c-6.207,0 -11.247,5.039 -11.247,11.246c-0,6.207 5.04,11.246 11.247,11.246c6.207,0 11.246,-5.039 11.246,-11.246Z"/><circle cx="40.949" cy="20.208" r="6.954" style="fill:#7888ff;"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 230 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-9,-3.402)">
+        <path d="M239,7.421C239,5.203 237.025,3.402 234.591,3.402L13.409,3.402C10.975,3.402 9,5.203 9,7.421L9,41.579C9,43.797 10.975,45.598 13.409,45.598L234.591,45.598C237.025,45.598 239,43.797 239,41.579L239,7.421Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-9,-3.402)">
+        <g transform="matrix(1,0,0,1,54.276,31.096)">
+            <text x="0px" y="0px" style="font-family:'JetBrainsMono-Regular', 'JetBrains Mono', monospace;font-size:17.2px;">Crafted with Juno</text>
+        </g>
+        <g>
+            <path d="M42.396,24.5C42.396,18.293 37.357,13.254 31.15,13.254C24.943,13.254 19.903,18.293 19.903,24.5C19.903,30.707 24.943,35.746 31.15,35.746C37.357,35.746 42.396,30.707 42.396,24.5Z"/>
+            <circle cx="40.949" cy="20.208" r="6.954" style="fill:rgb(120,136,255);"/>
+        </g>
+    </g>
+</svg>
