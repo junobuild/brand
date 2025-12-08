@@ -94,6 +94,6 @@ If you would like to use a pre-made badge, you can select one from the following
 
 ## Press inquiries
 
-Please direct inquiries to [david@fluster.io](mailto:david@fluster.io)
+Please direct inquiries to [hi@juno.build](mailto:hi@juno.build)
 
 [juno]: https://juno.build
